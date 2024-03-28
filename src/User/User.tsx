@@ -7,6 +7,8 @@ const User = () => {
             <h1>User</h1>
             <h1>User</h1>
             <h1>User</h1>
+            <h1>User</h1>
+            <h1>develop login ui</h1>
         </div>
     );
 };
